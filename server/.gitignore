@@ -1,0 +1,4 @@
+# In server folder, create .gitignore with:
+node_modules/
+.env
+*.log
