@@ -1,0 +1,8 @@
+# Create .gitignore in main folder
+# Add these lines:
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
